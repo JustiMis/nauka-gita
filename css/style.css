@@ -7,14 +7,17 @@
 .page-title {
 	font-family: 'Spectral', serif;
 	font-size: 50px;
+	margin: 30px;
 }
 
-.p {
+.page-poem {
 	font-family: 'Karla', sans-serif;
+	line-height: 1.7;
+	font-size: 25px
 }
 
-.h4 {
+.footer {
 	font-family: 'Spectral', serif;
-	font-size: 30px;
-	left: 50px;
+	font-size: 20px;
+	left: 150px;
 }
