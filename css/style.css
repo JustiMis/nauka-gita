@@ -1,15 +1,18 @@
+.body {
+	background-color: #9b59b6;
+}
+
 .header {
-	margin: 20px 0 0 40px;
-	background-color: : rgb(245,35,71);
-	background: linear-gradient(216deg, rgba(245,35,71,1) 0%, rgba(247,168,148,1) 52%, rgba(61,68,167,1) 100%);
+	margin: 40px;
+	padding: 50px;
 }
 
 .page-title {
 	font-family: 'Spectral', serif;
 	font-size: 50px;
-	margin: 30px 0 0 30px;
+	margin: 30px 0 0 80px;
 	color: #16a085;
-	margin: 0 auto;
+	
 }
 
 .page-poem {
@@ -17,13 +20,13 @@
 	line-height: 1.7;
 	font-size: 25px;
 	text-align: justify;
-	margin: 0 0 0 30px;
+	margin: 0 0 0 80px;
 }
 
 .footer {
 	font-family: 'Spectral', serif;
 	font-size: 35px;
 	right: 150px;
-	margin: 0 0 0 50px;
+	margin: 0 0 0 160px;
 	color: #16a085;
 }
