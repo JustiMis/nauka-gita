@@ -5,6 +5,11 @@
 .header {
 	margin: 40px;
 	padding: 50px;
+	display: flex;
+}
+
+.page-picture {
+	display: flex;
 }
 
 .page-title {
